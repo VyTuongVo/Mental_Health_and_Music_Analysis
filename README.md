@@ -5,7 +5,7 @@
 5. Group the participants into two categories: those who listen to music more than average and those who listen less.
 6. Do participants who listen to music report more "improvement" than those who listen less than average?
 7. Generally, state the percentage of participants who feel "improved" and "no effect."
-8. In the age range of 12 to 25, what percentage of participants report that music improves their health condition?
+8. In the age range of 10 to 25, create a pie chart for participants' mental health. 
 9. Which age group reports the most improvement from listening to music?
-10. Which gender reports that music "improves" health condition more?
+10. Which age group, on average send the most time listening to music?
    
